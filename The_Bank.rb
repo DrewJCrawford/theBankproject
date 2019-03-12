@@ -5,7 +5,7 @@ require_relative 'bank.classes'
 
 def welcome_screen
   @current_customer = ""
-
+#rick is cool
   puts "Welcom to The Bank"
   puts "Please choose from the following"
   puts "__________________________________"
