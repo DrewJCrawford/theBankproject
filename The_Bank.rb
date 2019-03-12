@@ -1,5 +1,5 @@
 require_relative 'bank.classes'
-
+#rick is cool
 @customers = []
 @accounts = []
 

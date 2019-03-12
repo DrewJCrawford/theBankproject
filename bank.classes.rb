@@ -1,6 +1,6 @@
 class Customer
   attr_accessor :name, :location
-
+#rick was here
   def initialize (name, location)
     @name = name
     @location = location
