@@ -160,3 +160,5 @@ def current_account_actions
 end
 
 welcome_screen
+
+puts "Drew was Here"
