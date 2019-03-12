@@ -1,6 +1,6 @@
 class Customer
   attr_accessor :name, :location
-
+#rick was here
   def initialize (name, location)
     @name = name
     @location = location
@@ -40,3 +40,4 @@ class Account
     puts "Your new balance is $#{'%0.2f'%(@balance)}"
   end
 end
+#hello!
